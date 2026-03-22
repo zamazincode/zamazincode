@@ -7,7 +7,7 @@ Hey there! I'm Fatih, a passionate frontend developer who loves coding and campi
 I also offer freelance services, helping businesses and individuals bring their ideas to life with modern web technologies. If you have a project in mind, feel free to reach out!
 
 ### 🌐 Website
-Check out my work at: [fatihkabul.vercel.app](https://fatihkabul.vercel.app)
+Check out my work at: [fatihkabul.vercel.app](https://fatihkabul.dev)
 
 ### 📲 Connect with Me
 - **LinkedIn:** [Fatih Kabul](https://linkedin.com/in/fatihkabul)
